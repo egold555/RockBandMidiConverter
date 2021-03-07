@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <RedPad>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="38"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.000000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pad"/>
+  </RedPad>
+  <YellowPad>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="47"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pad"/>
+  </YellowPad>
+  <BluePad>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="45"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pad"/>
+  </BluePad>
+  <GreenPad>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="43"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pad"/>
+  </GreenPad>
+  <Kick>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.000000"/>
+    <VelocityOutputMax floatValue="0.641026"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="36"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pedal"/>
+  </Kick>
+  <YellowCymbal>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.493333"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.366667"/>
+    <Note1 intValue="46"/>
+    <Note2 intValue="42"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.280000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="Pedal2"/>
+    <InputMode enumValue="Cymbal"/>
+  </YellowCymbal>
+  <BlueCymbal>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="51"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Cymbal"/>
+  </BlueCymbal>
+  <GreenCymbal>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.400000"/>
+    <VelocityOutputMax floatValue="1.000000"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="49"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.606667"/>
+    <NoteLength2 floatValue="0.506667"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Cymbal"/>
+  </GreenCymbal>
+  <PedalTwo>
+    <VelocityInputMin floatValue="0.000000"/>
+    <VelocityInputMax floatValue="1.000000"/>
+    <VelocityOutputMin floatValue="0.000000"/>
+    <VelocityOutputMax floatValue="0.822917"/>
+    <VelocityRandom floatValue="0.000000"/>
+    <Note1 intValue="44"/>
+    <Note2 intValue="-1"/>
+    <NoteVolume1 floatValue="1.000000"/>
+    <NoteVolume2 floatValue="1.000000"/>
+    <NoteLength1 floatValue="0.500000"/>
+    <NoteLength2 floatValue="0.500000"/>
+    <PedalMod enumValue="None"/>
+    <InputMode enumValue="Pedal"/>
+  </PedalTwo>
+</Settings>
